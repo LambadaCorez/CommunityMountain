@@ -1,0 +1,8 @@
+<download name="CommunityMountain" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="communitymountain.dds" dest="communitymountain.dds" size="699184" md5="98c414181473fa09e4e72578a1c81fe1"/>
+  <file src="communitymountain.xml" dest="communitymountain.xml" size="144" md5="0e0698c38ae67576a07c3d76ab0666ea"/>
+  <file src="level.pak" dest="level.pak" size="23263689" md5="19185dd417bef5c388e39d9ef9b3ba6c"/>
+ </files>
+</download>
